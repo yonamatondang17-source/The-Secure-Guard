@@ -1,50 +1,101 @@
-# Welcome to your Expo app 👋
+# 📱 Aplikasi Login & Register - Expo React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📌 Deskripsi
 
-## Get started
+Aplikasi ini merupakan aplikasi mobile sederhana yang dibuat menggunakan **Expo React Native**.
+Aplikasi memiliki fitur utama berupa:
 
-1. Install dependencies
+* Halaman Login
+* Halaman Register
+* Halaman Home
+* Navigasi antar halaman menggunakan React Navigation
+
+---
+
+## 🚀 Fitur Utama
+
+* ✅ Login dengan validasi input
+* ✅ Register dengan validasi:
+
+  * Email
+  * Nomor HP
+  * Password & Konfirmasi Password
+* ✅ Menampilkan nama user di halaman Home
+* ✅ Navigasi antar halaman (Home, Login, Register)
+* ✅ Tampilan UI sederhana dan user-friendly
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+* Expo
+* React Native
+* React Navigation
+* JavaScript
+
+---
+
+## 📂 Struktur Halaman
+
+* `App.js` → Konfigurasi navigation
+* `home.js` → Halaman utama (Home)
+* `login.js` → Halaman login
+* `register.js` → Halaman registrasi
+
+---
+
+## ▶️ Cara Menjalankan Project
+
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Jalankan aplikasi:
 
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+3. Pilih menjalankan di:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+   * Android Emulator
+   * iOS Simulator
+   * Expo Go
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🔄 Alur Aplikasi
 
-When you're ready, run:
+1. User membuka aplikasi → masuk ke halaman Home
+2. User memilih Login atau Register
+3. Jika belum punya akun → Register terlebih dahulu
+4. Setelah login → masuk ke Home
+5. Nama user akan ditampilkan di Home
+6. User dapat logout kembali ke Login
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📸 Capture Running Program
 
-## Learn more
+Berikut tampilan aplikasi:
 
-To learn more about developing your project with Expo, look at the following resources:
+* Halaman Home
+* Halaman Login
+* Halaman Register
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+*(Tambahkan screenshot di sini)*
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 🎯 Hasil
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Aplikasi berhasil dijalankan dengan baik menggunakan Expo dan dapat berpindah antar halaman tanpa error.
+
+---
+
+## 👨‍💻 Author
+
+* Nama: (Isi Nama Kamu)
+* Kelas: (Isi Kelas)
