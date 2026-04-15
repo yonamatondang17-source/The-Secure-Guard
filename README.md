@@ -93,9 +93,4 @@ Berikut tampilan aplikasi:
 
 Aplikasi berhasil dijalankan dengan baik menggunakan Expo dan dapat berpindah antar halaman tanpa error.
 
----
 
-## 👨‍💻 Author
-
-* Nama: (Isi Nama Kamu)
-* Kelas: (Isi Kelas)
