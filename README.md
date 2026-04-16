@@ -85,7 +85,16 @@ Berikut tampilan aplikasi:
 * Halaman Login
 * Halaman Register
 
-*(Tambahkan screenshot di sini)*
+## 📸 Tampilan Aplikasi
+
+### Login
+![Login](foto_1.jpeg)
+
+### Register
+![Register](foto_2.jpeg)
+
+### Home
+![Home](foto_3.jpeg)
 
 ---
 
